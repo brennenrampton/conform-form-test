@@ -4,9 +4,9 @@ import type { ReactNode } from 'react';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Conform Multi-Step Intake',
+  title: 'Utah Marriage License Application',
   description:
-    'Example Next.js app with Conform, Zod, IMask, autosave route handlers, and server actions.',
+    'CLERK-style marriage license workflow built with Conform, Zod, IMask, Next.js server actions, and route handlers.',
 };
 
 export default function RootLayout({ children }: { children: ReactNode }) {
